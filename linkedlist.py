@@ -98,4 +98,3 @@ if __name__ == "__main__":
     ll.removeval("hala")
     ll.removeval("madrid")
     ll.print()
-    
