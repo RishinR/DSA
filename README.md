@@ -17,8 +17,8 @@ Contributions are welcome to enhance the problem set or improve existing solutio
 5. Commit your changes and push them to your fork.
 6. Submit a pull request to this repository, explaining your changes in detail.
 
-Please ensure your contributions adhere to the repository's [Code of Conduct](CODE_OF_CONDUCT.md).
+Please ensure your contributions adhere to the repository's Code of Conduct.
 
 ## License
 
-This repository is licensed under the [MIT License](LICENSE). You are free to use the code and solutions provided here for personal or educational purposes. However, please attribute the original authors by linking back to this repository.
+This repository is licensed under the MIT License. You are free to use the code and solutions provided here for personal or educational purposes. However, please attribute the original authors by linking back to this repository.
